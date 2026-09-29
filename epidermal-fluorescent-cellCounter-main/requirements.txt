@@ -1,0 +1,13 @@
+readlif
+cellpose
+numpy
+scipy
+scikit-image
+opencv-python-headless
+matplotlib
+ipympl
+ipywidgets
+pandas
+Pillow
+tqdm
+jupyterlab
