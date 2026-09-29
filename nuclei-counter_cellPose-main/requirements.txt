@@ -1,0 +1,7 @@
+readlif
+cellpose
+matplotlib
+numpy
+pandas
+Pillow
+openpyxl
